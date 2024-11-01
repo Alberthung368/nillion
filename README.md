@@ -1,19 +1,29 @@
+# Website Nillion
+- https://nillion.com/
+  
+# Raise fund $65M
+https://crypto-fundraising.info/projects/nillion/
+![image](https://github.com/user-attachments/assets/3a5c0041-5aab-4edf-9b99-c6a6b5846f0f)
 
-### Thông tin
+# DOCS
+- https://docs.nillion.com/quickstart
+  
+# Thông tin chuẩn bị chạy node
+- Tối thiểu 0.05+ $ETH trên Ethereum ERC20 + Phí Gas
 - Chuẩn bị: ảnh lòng bàn tay, ảnh selfie, Ví Nillion (Keplr, leap)
 - Link: https://verifier.nillion.com/verifier
+- Kết nối ví Keplr & ví EVM
+- Chọn Secret và upload hình ảnh lên theo hướng dẫn có sẵn (có thể xem trong video)
 - Faucet: https://faucet.testnet.nillion.com/
 
-### Phần mềm yêu cầu
-
+## Phần mềm yêu cầu
 - [Docker](https://docs.docker.com/desktop/)
 
-
-### Cấu hình phần cứng
+## Cấu hình phần cứng
 - CPU 2 vCore
 - Ram 4 GB
 - Ổ cứng SSD 40 GB
-- Hệ điều hành linux Ubuntu 22.04 trở lên
+- Hệ điều hành linux Ubuntu 22.04
 
 ## Run node
 
